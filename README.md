@@ -197,8 +197,6 @@ Codveda Technologies
 
 🔗 GitHub: https://github.com/Asath064
 
-🔗 LinkedIn: Add Your LinkedIn Profile Here
-
 ---
 
 <p align="center">
